@@ -15,17 +15,17 @@ An end-to-end data intelligence solution designed to analyze global AI salary tr
 **Logic/Metrics:** DAX (Data Analysis Expressions)
 
 🚀## **The Data Pipeline**
-### **1. Feature Engineering (Python)**
+###**1. Feature Engineering (Python)**
 **Skill-Set Decomposition:** Extracted technical competencies from raw text strings and transformed them into a 44-column binary matrix (One-Hot Encoding).
 
 **Statistical Profiling:** Conducted EDA to identify salary hotspots, remote work premiums, and the "AI Salary Premium" across different industries.
 
-### **2. Data Engineering (PostgreSQL)**
+###**2. Data Engineering (PostgreSQL)**
 **ETL Pipeline:** Automated the migration of cleaned datasets into a PostgreSQL environment.
 
 Manual View Engineering: Authored specialized SQL Views in the Query Editor to aggregate metrics at the source, ensuring the Power BI model remains lightweight and high-performing.
 
-### **3. Business Intelligence (Power BI)**
+###**3. Business Intelligence (Power BI)**
 **Dynamic Benchmarking:** Built a "Salary vs. Global Average" gauge that adjusts instantly based on experience level slicers.
 
 **Geospatial Intelligence:** Visualized global talent clusters and regional compensation variations.
