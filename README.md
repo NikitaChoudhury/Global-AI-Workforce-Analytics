@@ -38,13 +38,13 @@ Manual View Engineering: Authored specialized SQL Views in the Query Editor to a
 **Experience Gaps:** Benchmarked Entry-level roles against a $195k global target to highlight regional compensation disparities.
 
 ## 📂**Repository Structure**
-Scripts/: Python ETL and EDA notebooks.
+**Scripts/:** Python ETL and EDA notebooks.
 
-SQL/: Manual SQL scripts and View definitions.
+**SQL/:** Manual SQL scripts and View definitions.
 
-Dashboard/: The .pbix Power BI file.
+**Dashboard/:** The .pbix Power BI file.
 
-Images/: Screenshots of the final dashboard.
+**Images/:** Screenshots of the final dashboard.
 
 ## 🔗**Data Source**
 Data originally sourced from **Kaggle**.
