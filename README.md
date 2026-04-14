@@ -1,9 +1,9 @@
 # **Global AI Workforce & Compensation Analytics Hub**
 
-📌 ## **Project Overview**
+## 📌 **Project Overview**
 An end-to-end data intelligence solution designed to analyze global AI salary trends, skill demand, and talent distribution. This project demonstrates a full-stack data pipeline—from raw data ingestion and feature engineering to database management and executive-level visualization.
 
-🛠 ## **Tech Stack**
+## 🛠 **Tech Stack**
 **Data Engineering/EDA:** Python (Pandas, Seaborn, Matplotlib)
 
 **Feature Engineering:** One-Hot Encoding for skill-set decomposition
@@ -14,7 +14,7 @@ An end-to-end data intelligence solution designed to analyze global AI salary tr
 
 **Logic/Metrics:** DAX (Data Analysis Expressions)
 
-🚀 ## **The Data Pipeline**
+## 🚀 **The Data Pipeline**
 ###**1. Feature Engineering (Python)**
 **Skill-Set Decomposition:** Extracted technical competencies from raw text strings and transformed them into a 44-column binary matrix (One-Hot Encoding).
 
