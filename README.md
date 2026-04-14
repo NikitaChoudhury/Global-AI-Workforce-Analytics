@@ -1,4 +1,5 @@
 **Global AI Workforce & Compensation Analytics Hub**
+
 📌 **Project Overview**
 An end-to-end data intelligence solution designed to analyze global AI salary trends, skill demand, and talent distribution. This project demonstrates a full-stack data pipeline—from raw data ingestion and feature engineering to database management and executive-level visualization.
 
